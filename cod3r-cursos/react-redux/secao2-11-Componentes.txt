@@ -1,0 +1,5 @@
+3m
+
+Antigamente se separava os elementos de uma aplicacao em arquivos css, html  javascript
+hoje tarbalha -se com componentes, que estao nos principais frameworks, react, vue e angular
+que sao pequenas aplicacoes que contem o comportamento javascript, jsx etc.

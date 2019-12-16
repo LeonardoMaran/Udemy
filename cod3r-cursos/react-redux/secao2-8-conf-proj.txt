@@ -1,0 +1,2 @@
+-apagar e recriar a pasta src
+-criar o arquivo index.js na pasta src

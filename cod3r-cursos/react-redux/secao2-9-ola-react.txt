@@ -1,0 +1,5 @@
+3 dependencias foram instaladas
+
+react
+react-dom - ponto de contato com o react e com a DOM
+react-script- fazer a build

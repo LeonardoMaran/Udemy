@@ -1,0 +1,14 @@
+O React e basicamente formado por componentes entao entender o funcionamento dos componentes e crucial
+todo componente e identificado por um arquivo de extensao jsx e o nome comeca com a letra maiuscula
+
+existem dois tipos de componentes, baseados em funcao e em classe
+
+O build  so conhece o arquivo index.js
+
+se colocar dois iguais componentes fora de uma div vai gerar problema
+mas se colocar dentro de uma div vai dar certo.
+
+Criamos o primeiro componente baseado em uma funcao
+
+
+

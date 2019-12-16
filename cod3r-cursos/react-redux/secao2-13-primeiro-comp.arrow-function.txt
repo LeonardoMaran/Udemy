@@ -1,0 +1,5 @@
+O react e um framework com foco muito pesado na view,  diferente de outros
+frameworks como o angular, que e bem mais extenso que javem com um monte de recursoscomo rotas
+o react e muito focado na view, nos componentes e na relacao entre os componentes
+
+voce pode usar uma arrow function que surgiu a partir do ES6 e a partir do ecma script2015
