@@ -1,0 +1,2 @@
+A melhor forma de oce ter acesso a componentes filhos dentro 
+de componentes  pai 

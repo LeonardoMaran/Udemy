@@ -1,0 +1,14 @@
+O Redux e um framework independente do react
+E o React e um framework independente do redux
+
+O React esta preocupado em criar componentes de tela, componetentes filho
+de passar propriedades de um componente paar o outro
+para estados mais complexos e compartilhados entre componentes, o uso apenas do
+react vai te trazer muita dor de cabeca.
+
+Temos que instalar 2 dependencias
+
+o redux e o framework que vai fazer a juncao do react e do redux
+
+yarn add --dev redux
+

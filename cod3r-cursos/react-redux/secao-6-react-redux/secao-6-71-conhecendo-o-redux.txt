@@ -1,0 +1,7 @@
+No react quando temos uma arvore de componentes quando o componente pai se comunica com as porireades para os
+componentes filho e de facil comunicacao do componentepai para o filho mas vice e versa nao, orque acaba criando um
+alto acoplamento entre os componentes. Entao o redux facilita isso na qual o estado e atualizado, que esomente leitura, mas
+na qual quando o elemento e acionado ele adiciona um dispatcher que faz om que o estado principal e atualizado para os componentes
+referenciados naqele estado, atraves  do reducer que e uma funcao pura.
+
+
